@@ -9,7 +9,9 @@
     
 </head>
 <body>
-    <div id="hello"></div>
+    <div id="nav">
+        
+    </div>
     <div id="hello-react"></div>
     <script src="{{ asset('js/app.js') }}" ></script>
 </body>

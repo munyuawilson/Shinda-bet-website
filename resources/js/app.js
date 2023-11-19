@@ -1,7 +1,7 @@
 require('./bootstrap');
 
 import ReactDOM from 'react-dom';
-import HelloReact from "./components/HelloReact";
+import Nav from "./components/Nav";
 
 //require('./components/HelloReact');
-ReactDOM.render(<HelloReact />, document.getElementById('hello'));
+ReactDOM.render(<Nav />, document.getElementById('nav'));
